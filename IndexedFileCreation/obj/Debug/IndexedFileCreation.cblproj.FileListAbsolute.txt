@@ -1,0 +1,8 @@
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\bin\Debug\IndexedFileCreation.exe
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\bin\Debug\IndexedFileCreation.pdb
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\bin\Debug\IndexedFileCreation.indexedfilecreation_program1.idy
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\obj\Debug\IndexedFileCreation.cblprojAssemblyReference.cache
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\obj\Debug\IndexedFileCreation.cblproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\obj\Debug\IndexedFileCreation.indexedfilecreation_program1.idy
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\obj\Debug\IndexedFileCreation.exe
+C:\Users\dylan\Desktop\COBOL\IndexedFileCreation\IndexedFileCreation\obj\Debug\IndexedFileCreation.pdb
